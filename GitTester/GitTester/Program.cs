@@ -9,6 +9,7 @@ namespace GitTester
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world");
         }
     }
 }
